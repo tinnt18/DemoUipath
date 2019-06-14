@@ -1,0 +1,12 @@
+{  
+
+   "StartProcessCron":"0 0 0 ? 1/5 SUN *",
+   "StartProcessCronDetails":"{\"type\":4,\"minutely\":{},\"hourly\":{},\"daily\":{},\"weekly\":{\"weekdays\":[]},\"monthly\":{\"weekdays\":[{\"id\":\"SUN\",\"weekly\":\"Sunday\",\"monthly\":\"Sunday\"}],\"atMinute\":0,\"atHour\":0,\"frequencyInMonths\":\"5\"},\"advancedCronExpression\":\"\"}",
+   "StartStrategy":15,
+   "ExecutorRobots":[  
+
+   ],
+   "StopProcessExpression":"",
+   "StopStrategy":null,
+   "TimeZoneId":"GMT Standard Time"
+}

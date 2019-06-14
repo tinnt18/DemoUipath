@@ -1,0 +1,14 @@
+{
+	"itemData": {
+		"Priority": "High",
+		"DeferDate": "2018-03-21T13:42:27.654Z",
+		"DueDate": "2018-03-25T13:42:27.654Z",
+		"Name": "ItemQueue",
+		"SpecificContent": {
+			"Email@odata.type": "#String",
+			"Email": "obrian@uipath.com", 
+			"Name@odata.type": "#String",
+			"Name": "O'Brian"
+		}
+	}
+}
